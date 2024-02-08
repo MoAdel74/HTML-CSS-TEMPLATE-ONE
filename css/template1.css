@@ -390,6 +390,9 @@ body {
     .contact .container .info .label {
         font-size: 30px;
     }
+    .contact .container .info .social {
+        font-size: 16px;
+    }
 }
 .footer {
     height: 60px;
